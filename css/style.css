@@ -1,0 +1,58 @@
+/* --------------HEADER-------------------- */
+
+#nav {
+  background-color: #2c3e50;
+  border: none;
+  border-radius: 0;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.navbar-default .navbar-brand ,
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-header a {
+  font-weight: bold;
+}
+
+/*----------------JUMBOTRON----------------------- */
+
+.jumbotron {
+  background-color: #1ABC9C;
+  color: white;
+}
+
+.centre-block img {
+  height: 200px;
+  width: 100%;
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.star {
+  padding: 10px 0;
+}
+
+.star i {
+  color: white;
+}
+
+.fs-16 {
+  font-size: 25px;
+}
+
+.t-jumbo span:nth-last-child(2)::after {
+  content: '-';
+  padding-right: 10px;
+}
+
+.t-jumbo span:nth-last-child(2)::before {
+  content: '-';
+  padding-left: 10px;
+}
