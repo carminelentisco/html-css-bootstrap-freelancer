@@ -1,0 +1,17 @@
+/* --------------HEADER-------------------- */
+
+#nav {
+  background-color: #2c3e50;
+  border: none;
+  border-radius: 0;
+}
+
+
+.navbar-default .navbar-brand ,
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-header a {
+  font-weight: bold;
+}
