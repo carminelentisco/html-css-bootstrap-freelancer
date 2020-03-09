@@ -68,3 +68,16 @@
   border-radius: 20px;
   margin-bottom: 20px;
 }
+
+/* ABOUT */
+
+#about {
+  background-color: #1ABC9C;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#about h2 {
+  margin-bottom: 50px;
+}
