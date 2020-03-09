@@ -56,3 +56,15 @@
   content: '-';
   padding-left: 10px;
 }
+
+
+/* PORTFOLIO */
+
+#portfolio {
+  color: #2c3e50;
+}
+
+#portfolio .row img {
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
